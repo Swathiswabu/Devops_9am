@@ -1,2 +1,2 @@
-# Devops_9am
+# Devops
 Git repo for  devops practice
